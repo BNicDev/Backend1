@@ -1,0 +1,5 @@
+Producto: Remera - Cantidad: 2 - Total: 30000 
+ Producto: Café Molido - Cantidad: 1 - Total: 8500 
+ Producto: Remera - Cantidad: 2 - Total: 30000 
+ Producto: Café Molido - Cantidad: 1 - Total: 8500 
+ 
