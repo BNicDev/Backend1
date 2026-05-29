@@ -1,0 +1,24 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "A collection of beginner backend exercises built with Node.js, focused on **OOP fundamentals**: classes, encapsulation, validation logic, and module exports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BNicDev/Backend1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BNicDev/Backend1/issues"
+  },
+  "homepage": "https://github.com/BNicDev/Backend1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "Café Colombia Kachalú",
+      "description": "Notas a frutos rojos y chocolate amargo",
+      "price": 8500,
+      "thumbnail": "/imagenes/colombia.jpg",
+      "code": "CAF-COL-01",
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "title": "Prensa Francesa Bialetti",
+      "description": "Cafetera de émbolo de vidrio de 1 Litro",
+      "price": 32000,
+      "thumbnail": "/imagenes/prensa.jpg",
+      "code": "ACC-BI-02",
+      "stock": 8
+    },
+    {
+      "id": 3,
+      "title": "Balanza Hario Drip Scale",
+      "description": "Balanza de alta precisión con temporizador",
+      "price": 45000,
+      "thumbnail": "/imagenes/balanza.jpg",
+      "code": "ACC-HA-03",
+      "stock": 4
+    }
+  ]
